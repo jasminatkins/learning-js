@@ -1,2 +1,2 @@
-# learning_js-
-my first js projects
+# learning-js
+My first js projects
