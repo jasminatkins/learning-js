@@ -46,7 +46,7 @@ This repository contains my first JavaScript projects, completed as part of free
 ### Loops
 - [Word Counter](https://github.com/jasminatkins/learning-js/blob/main/word-counter.js)
 - [Sentence Analyser](https://github.com/jasminatkins/learning-js/blob/main/sentence-analyser.js)
-- [Traffic Light Sequencer]()
+- [Traffic Light Sequencer](https://github.com/jasminatkins/learning-js/blob/main/traffic-light-sequencer.js)
 - [Space Mission Roster](https://github.com/jasminatkins/learning-js/blob/main/space-mission-roster.js)
 - [Heritage Library Catalogue](https://github.com/jasminatkins/learning-js/blob/main/heritage-library-catalogue.js)
 - [Longest Word Finder App](https://github.com/jasminatkins/learning-js/blob/main/longest-word-finder-app.js)
