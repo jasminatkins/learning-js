@@ -14,7 +14,7 @@ This repository contains my first JavaScript projects, completed as part of free
 - [String Transformer](https://github.com/jasminatkins/learning-js/blob/main/string-transformer.js)
 
 ### Booleans and Numbers
-- [Debug Type Coercion Errors in a Buggy App]()
+- [Debug Type Coercion Errors in a Buggy App](https://github.com/jasminatkins/learning-js/blob/main/debug-type-coercion-errors-in-a-buggy-app.js)
 - [Debug Increment and Decrement Operator Errors in a Buggy App]()
 - [Logic Checker App](https://github.com/jasminatkins/learning-js/blob/main/logic-checker-app.js)
 - [Mathbot](https://github.com/jasminatkins/learning-js/blob/main/mathbot.js)
